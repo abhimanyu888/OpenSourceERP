@@ -481,7 +481,7 @@
  "max_attachments": 0, 
  "modified": "2018-06-29 14:24:32.774721", 
  "modified_by": "Administrator", 
- "module": "HR", 
+ "module": "hr", 
  "name": "Department", 
  "owner": "Administrator", 
  "permissions": [
