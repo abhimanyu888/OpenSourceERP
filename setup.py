@@ -15,7 +15,7 @@ with open('erpnext/__init__.py', 'rb') as f:
 setup(
 	name='erpnext',
 	version=version,
-	description='Open Source ERP System',
+	description='ERP System',
 	author='Frappe Technologies',
 	author_email='info@erpnext.com',
 	packages=find_packages(),
